@@ -27,3 +27,6 @@ As carrier services evolved, the limitations and high costs of the ERP's third-p
 
 This project demonstrates my ability to identify business inefficiencies and develop a comprehensive solution that not only resolves the immediate problem but also lays the groundwork for future system architecture. TAFIE is positioned to potentially replace the ERP's shipping functionality, which would significantly reduce licensing costs and provide greater control over operations.
 
+In this repository are database dictionaries, technical reports and class indexes which help explain the operation of the application
+
+---
